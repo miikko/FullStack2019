@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Arto Järvinen",
+      "number": "040-123456",
+      "id": 3
+    },
+    {
+      "name": "Jaana Suominen",
+      "number": "040-135423",
+      "id": 7
+    },
+    {
+      "name": "Paavo Suomalainen",
+      "number": "123567",
+      "id": 8
+    }
+  ]
+}
